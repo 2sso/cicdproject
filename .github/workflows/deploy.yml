@@ -10,7 +10,7 @@ env:
   BUCKET_NAME: cide-codedeploy-6995
   CODE_DEPLOY_APP_NAME: cicdapp
   DEPLOYMENT_GROUP_NAME: cicdapp_deploy
-  AWS_REGION: us-west-2
+  AWS_REGION: ap-south-1
 
 jobs:
   build:
